@@ -1,0 +1,17 @@
+@-moz-document domain("docs.nestjs.com") {
+  .top-bar {
+    display: none;
+  }
+}
+
+@-moz-document domain("reactjs.org") {
+  .css-1loxuh3 {
+    display: none;
+  }
+}
+
+@-moz-document domain("jestjs.io") {
+  div[role="banner"] {
+    display: none;
+  }
+}
